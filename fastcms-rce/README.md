@@ -20,7 +20,8 @@ SQL
 .\build.bat
 ```
 
-![建造完成](D:\Onenote\notes-images\建造完成.png)
+<img width="740" height="241" alt="建造完成" src="https://github.com/user-attachments/assets/5ceecde5-ab05-4333-aa70-b95a50a40e62" />
+
 
 ## 2、web
 
@@ -30,7 +31,8 @@ SQL
  .\startup.cmd
 ```
 
-![启动](D:\Onenote\notes-images\启动.png)
+<img width="1665" height="114" alt="启动" src="https://github.com/user-attachments/assets/6cfe0119-2515-45ac-bf1a-2236d942e112" />
+
 
 login：http://127.0.0.1:8080/fastcms.html，admin/1
 
@@ -58,14 +60,16 @@ public void calc() {
 }
 ```
 
-![构造1](D:\Onenote\notes-images\构造1.png)
+<img width="931" height="595" alt="构造1" src="https://github.com/user-attachments/assets/6443b88a-3de6-4de8-8cc9-2314c8d7976b" />
+
 
 ```sh
 # fastcms/plugins/hello-world-plugin/
 mvn clean package
 ```
 
-![jar文件路径](D:\Onenote\notes-images\jar文件路径.png)
+<img width="1585" height="190" alt="jar文件路径" src="https://github.com/user-attachments/assets/0a24f949-6a44-4dd2-a5ba-6ce3a2d5900d" />
+
 
 fastcms\plugins\hello-world-plugin\target\hello-world-plugin-0.1.6-SNAPSHOT.jar
 
@@ -73,12 +77,11 @@ fastcms\plugins\hello-world-plugin\target\hello-world-plugin-0.1.6-SNAPSHOT.jar
 
 **upload**
 
-![安装插件](D:\Onenote\notes-images\安装插件.png)
+<img width="1485" height="523" alt="安装插件" src="https://github.com/user-attachments/assets/14c48384-ee46-4f2a-a0bc-e7b496be2811" />
+
 
 fastcms\plugins\hello-world-plugin\target\hello-world-plugin-0.1.6-SNAPSHOT.jar
 
-![选择上传](D:\Onenote\notes-images\选择上传.png)
+<img width="783" height="540" alt="选择上传" src="https://github.com/user-attachments/assets/cec4d37d-faeb-4dcb-86d0-6f3017c9260a" />
 
-
-
-![上传成功](D:\Onenote\notes-images\上传成功.png)
+<img width="1607" height="823" alt="上传成功" src="https://github.com/user-attachments/assets/232a36bd-93b5-4db3-98b3-45bfdbf2c558" />
